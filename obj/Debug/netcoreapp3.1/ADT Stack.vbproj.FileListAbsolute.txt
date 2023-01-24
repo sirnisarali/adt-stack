@@ -1,0 +1,14 @@
+C:\Users\Aitzaz Imtiaz\source\repos\ADT Stack\ADT Stack\obj\Debug\netcoreapp3.1\ADT Stack.vbproj.AssemblyReference.cache
+C:\Users\Aitzaz Imtiaz\source\repos\ADT Stack\ADT Stack\obj\Debug\netcoreapp3.1\ADT Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aitzaz Imtiaz\source\repos\ADT Stack\ADT Stack\obj\Debug\netcoreapp3.1\ADT Stack.AssemblyInfoInputs.cache
+C:\Users\Aitzaz Imtiaz\source\repos\ADT Stack\ADT Stack\obj\Debug\netcoreapp3.1\ADT Stack.AssemblyInfo.vb
+C:\Users\Aitzaz Imtiaz\source\repos\ADT Stack\ADT Stack\obj\Debug\netcoreapp3.1\ADT Stack.vbproj.CoreCompileInputs.cache
+C:\Users\Aitzaz Imtiaz\source\repos\ADT Stack\ADT Stack\bin\Debug\netcoreapp3.1\ADT Stack.exe
+C:\Users\Aitzaz Imtiaz\source\repos\ADT Stack\ADT Stack\bin\Debug\netcoreapp3.1\ADT Stack.deps.json
+C:\Users\Aitzaz Imtiaz\source\repos\ADT Stack\ADT Stack\bin\Debug\netcoreapp3.1\ADT Stack.runtimeconfig.json
+C:\Users\Aitzaz Imtiaz\source\repos\ADT Stack\ADT Stack\bin\Debug\netcoreapp3.1\ADT Stack.runtimeconfig.dev.json
+C:\Users\Aitzaz Imtiaz\source\repos\ADT Stack\ADT Stack\bin\Debug\netcoreapp3.1\ADT Stack.dll
+C:\Users\Aitzaz Imtiaz\source\repos\ADT Stack\ADT Stack\bin\Debug\netcoreapp3.1\ADT Stack.pdb
+C:\Users\Aitzaz Imtiaz\source\repos\ADT Stack\ADT Stack\obj\Debug\netcoreapp3.1\ADT Stack.dll
+C:\Users\Aitzaz Imtiaz\source\repos\ADT Stack\ADT Stack\obj\Debug\netcoreapp3.1\ADT Stack.pdb
+C:\Users\Aitzaz Imtiaz\source\repos\ADT Stack\ADT Stack\obj\Debug\netcoreapp3.1\ADT Stack.genruntimeconfig.cache

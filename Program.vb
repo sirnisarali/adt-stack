@@ -1,16 +1,12 @@
-﻿
 Option Explicit On
-Module Module1
-
-    Dim TopPointer As Integer = -1
+Module Program
+    Dim TopPointer As Integer
     Dim BasePointer As Integer = 0
     Dim stack() As String = {0, 0, 0, 0, 0}
     Dim stackfull = 5
-
-    Sub Main()
-
-        Dim MenuChoice As Integer = 0
-
+    Dim MenuChoice As Integer = 0
+    Sub Main(args As String())
+        TopPointer = -1
         Do While MenuChoice <> 4
             Console.Clear()
             Console.WriteLine(" (1) to push to Stack")
@@ -51,7 +47,7 @@ Module Module1
         newVal = Console.ReadLine
         If TopPointer < stackfull - 1 Then
             TopPointer = TopPointer + 1
-            stack(TopPointer) = newVal
+            Stack(TopPointer) = newVal
         Else
             Console.WriteLine("Over flow")
             Console.ReadKey()
@@ -61,8 +57,9 @@ Module Module1
 
     Sub Print()
         For i = 0 To TopPointer
-            Console.WriteLine("-->" & stack(i))
+            Console.WriteLine("-->" & Stack(i))
         Next
         Console.ReadKey()
+
     End Sub
 End Module
